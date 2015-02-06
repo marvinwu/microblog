@@ -27,5 +27,5 @@ build:
 
     - script:
         name: added testing
-        code: py.test 
+        code: tests.py 
 
